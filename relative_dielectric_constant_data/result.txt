@@ -1,0 +1,4 @@
+datetime,reflect time at soil surface(ns),reflect time at probe end(ns),relative dielectrice constant(-),measurement point
+2200-01-01 13:00:00,#N/A,#N/A,#N/A,51
+2200-01-01 14:00:00,2.25989,4.92207,11.24511,101
+2200-01-01 15:00:00,2.37825,3.57443,2.27028,51
