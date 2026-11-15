@@ -97,7 +97,7 @@ NanoVNA本体右上のレバースイッチを押し込んだ状態でNanoVNAを
 ```
 
 ### 電気的長さをユーザーパラメータファイルに反映
-~/TDR_SoilMoistureSensor/config/user_data.pyにある電気的長さを表す変数「PROBE_ELECTRIC_LENGTH」に求めた電気的長さ（mm）を記入する。
+~/TDR_SoilMoistureSensor/config/user_data.pyにある電気的長さを表す変数「PROBE_ELECTRIC_LENGTH」に求めた電気的長さ（m）を記入する。
 
 ```
 PROBE_ELECTRIC_LENGTH :float = 0.119    #プローブのロッド部の電気的長さ（m）
